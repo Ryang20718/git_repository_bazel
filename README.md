@@ -1,17 +1,13 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# Discussion number 33806
 
 ## Current behavior
 
-Explain the current behavior here.
+git_repository update to a latest commit with commit set. this is a regression which was added in https://github.com/renovatebot/config-help/issues/173.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Update the commit sha to latest commit
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/33806#discussioncomment-11934761
